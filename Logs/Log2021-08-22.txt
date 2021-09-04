@@ -1,0 +1,4 @@
+2021-08-22 19:12:24,582 - Test_SignUp.py:[14] - [INFO] - --- Test dosignup 1 Started ---
+2021-08-22 19:12:25,068 - Test_SignUp.py:[17] - [INFO] - --- Test dosignup 1 Ended ---
+2021-08-22 19:12:38,960 - Test_SignUp.py:[23] - [INFO] - --- Test signup submit Started ---
+2021-08-22 19:12:40,431 - Test_SignUp.py:[27] - [INFO] - --- Test signup submit Ended ---
